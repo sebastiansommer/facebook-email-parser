@@ -1,11 +1,11 @@
 {
-  "name": "seven/facebook-email-parser",
+  "name": "sevenSg/facebook-email-parser",
   "license": "MIT",
   "description": "WIP",
   "type": "library",
   "autoload": {
     "psr-4": {
-      "Seven\\FacebookEmailParser\\": "src/Seven/FacebookEmailParser/"
+      "SevenSg\\FacebookEmailParser\\": "src/SevenSg/FacebookEmailParser/"
     }
   },
   "require": {

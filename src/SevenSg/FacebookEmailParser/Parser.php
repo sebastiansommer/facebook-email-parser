@@ -1,5 +1,5 @@
 <?php
-namespace Seven\FacebookEmailParser;
+namespace SevenSg\FacebookEmailParser;
 
 class Parser
 {
