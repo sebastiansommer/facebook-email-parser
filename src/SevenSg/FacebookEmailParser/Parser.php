@@ -31,6 +31,6 @@ class Parser
 
         preg_match_all($regex, $this->content, $matches, PREG_SET_ORDER, 0);
 
-        return $matches[0][1];
+        return trim($matches[0][1]);
     }
 }
