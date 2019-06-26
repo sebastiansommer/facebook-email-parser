@@ -1,0 +1,14 @@
+{
+  "name": "seven/facebook-email-parser",
+  "license": "MIT",
+  "description": "WIP",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Seven\\FacebookEmailParser\\": "src/Seven/FacebookEmailParser/"
+    }
+  },
+  "require": {
+    "php": ">=7.0"
+  }
+}
